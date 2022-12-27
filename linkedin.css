@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(128, 128, 128, 0.266);
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.span-color span{
+    color: rgba(0, 72, 255, 0.988);
+}
+
+.card-bg {
+    filter: blur(2px);
+}
+
+.list-color li{
+    color: gray;
+}
+
+.text-decoration-none a{
+    text-decoration: none;
+}
+
+.text-decoration-none a {
+    color: gray;
+    font-weight: bold;
+}
+
+.footer-last li {
+    font-size: 14px;
+    padding: 5px;
+}
